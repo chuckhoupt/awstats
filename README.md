@@ -106,7 +106,7 @@ IV  - About the author, license and support
 	  
 	To run awstats as a CGI (for real-time
 	  statistics), your web server must also be able to run such scripts.
-	  If not, you can solve this by downloading last Perl version at:
+	  If not, you can solve this by downloading the lateset Perl version at:
 	  http://www.activestate.com/ActivePerl/ (Windows)
 	  http://www.perl.com/pub/language/info/software.html (All OS)
 
@@ -145,7 +145,7 @@ IV  - About the author, license and support
 The documentation available for this release in HTML format is
 in the docs/ directory.
 
-You can find a most up-to-date documentation at:
+You can find the most up-to-date documentation at:
 <http://www.awstats.org>
 
 
